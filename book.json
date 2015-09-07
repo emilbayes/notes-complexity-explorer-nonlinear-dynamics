@@ -1,5 +1,8 @@
 {
   "title": "Notes ­-­ Compl­exity ­Explor­er - N­online­ar Dyn­amics",
   "description": "Notes for the Complexity Explorer course Nonlinear Dynamics: Mathematical and Computational Approaches (Fall 2015)",
-  "plugins": []
+  "plugins": [
+    "katex",
+    "include-codeblock"
+  ]
 }
